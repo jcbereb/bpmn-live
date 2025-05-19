@@ -1,6 +1,5 @@
 
 Denuncia de Fraude
-Contexto:
 
 Con el objetivo de facilitar la denuncia de fraudes y posibilitar la colaboración de los clientes, se ofrece la posibilidad de denunciar tres tipos de fraude:
 Fraude de tarjeta de crédito
