@@ -1,5 +1,5 @@
-
 Gestión de Reclamos
+
 Cada año, la agencia de viajes XY tiene que procesar un lote de reclamos (cerca de 1000). Hay un departamento especial para el proceso de reclamos (Departamento C), además, hay un departamento interno llamado logística (Departamento L) el cual se encarga de registrar los reclamos que llegan y archivar los reclamos procesados. El siguiente proceso es utilizado para manejar los reclamos:
 Primero, un empleado del departamento de Logística registra cada reclamo que se presente.
 Después del registro, un empleado del departamento de reclamos envía un formulario al cliente con preguntas acerca de la naturaleza del reclamo. Hay dos posibilidades: que el cliente devuelva el formulario dentro de las dos semanas siguientes o que no lo haga. Si el formulario es devuelto, este es procesado automáticamente, resultando en un reporte que puede ser usado por el proceso actual de reclamos. Si el formulario no es devuelto a tiempo, un time-out ocurre, resultando en un reporte vacío. Tenga en cuenta que no recibir el formulario no implica la terminación del proceso ni que el reclamo sea descartado. Después del registro, es decir, en paralelo con el envío y recepción del formulario, comienza la preparación del proceso.
